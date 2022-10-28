@@ -21,7 +21,7 @@ public class _1115 {
         System.out.println("terceiro");
       }
       if (x > 0 && y < 0) {
-        System.out.println("terceiro");
+        System.out.println("quarto");
       }
     }
 
